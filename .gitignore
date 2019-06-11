@@ -14,3 +14,7 @@
 # Metadata
 *.aliases
 *.lvlps
+
+#user
+/log_data/*
+*.log
